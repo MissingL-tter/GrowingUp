@@ -1,6 +1,6 @@
 # GrowingUp
 Simple demonstration of a dialogue system in Unity.
 
-Currently only contains a simple dialogue system, development may resume, or this will be replaced with another game project.
+Currently only contains a simple dialogue system, this was done as a quick demonstration to collaborators.
 
-Potential collaborators are currently discussing the type of game we would like to work on and when we will have time to work on it.
+I have decided to continue development on a game made during Global Game Jam, Ritual Master.
